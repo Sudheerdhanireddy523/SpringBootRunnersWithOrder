@@ -11,7 +11,7 @@ public class AppMyTester implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		System.out.println("from third runner");
+		System.out.println("from third runners");
 		
 	}
 
